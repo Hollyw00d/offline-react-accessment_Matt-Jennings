@@ -5,6 +5,7 @@
 - App Details:
   - The code from the GitHub repo below was copied into this repo and then edited:
     [https://github.com/MasterRyd3l/offline-react-accessment](https://github.com/MasterRyd3l/offline-react-accessment)
+  - Code was already adapted from a [GitHub repo (created by Matt J)](https://github.com/Hollyw00d/react-interview-q1) I completed work on April 10, 2024 for the what appears to be a duplicate React test which I cloned [from this GitHub repo (repo link provided by an Aditi Consulting recruiter)](https://github.com/yemex794/react-interview-q1)
   - All bullet points were addressed (see **Requirements** section below)
   - I was a little unclear about how to use the `isNameValid` API at **solution/src/mock-api/apis.js** so the`This name has already been taken.` errors message appears whenever:
     - `invalid name` is typed into the `Name` field per the `isNameValid` API
